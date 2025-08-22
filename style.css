@@ -63,6 +63,8 @@ h1 {
     background-color: rgb(246, 244, 242);
     text-align: left;
     padding: 0% 3%;
-    display: none;
+    display: block;
     overflow: hidden;
+    max-height: 0px;
+    transition: max-height 0.2s ease-out;
 }
