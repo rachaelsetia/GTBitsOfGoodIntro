@@ -1,2 +1,2 @@
-# GTBitsofGoodIntro
-Dev Bootcamp Takehome Assignment for the Bits of Good Fall 2025 Application
+# GTBitsOfGoodIntro
+Developer Bootcamp Take-home Assignment for the Bits of Good Fall 2025 Application
